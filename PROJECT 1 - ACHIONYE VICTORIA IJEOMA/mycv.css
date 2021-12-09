@@ -1,0 +1,28 @@
+.universal{
+    border: 2px solid darkgray;
+    margin: 100px;
+    display: flex;
+}
+
+.A{
+    width: 400px;
+    height: 1000px;
+    background-color: darkgray;
+}
+
+.AA{margin: 50px 0px;}
+
+.A-one{
+    margin: 20px 100px;
+    border-radius: 60%;
+}
+
+.A-two{margin: 0px 50px;}
+
+.A-three{margin: 15px 100px;}
+
+.B{margin: 0px 50px;}    
+
+.B-one{margin: 0px 70px;}
+
+.C{padding: 30px;}
