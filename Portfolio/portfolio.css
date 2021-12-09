@@ -1,0 +1,67 @@
+header{
+    border: 2px solid black;
+    margin: 20px 40px;
+    border-radius: 10px;
+}
+
+.A{
+    display: flex;
+    justify-content: flex-end;
+}
+.A-one{
+    display: flex;
+    list-style: none;
+    padding: 20px 100px;
+    margin-right: 100px;
+}
+
+nav ul li{
+    margin-right: 60px;
+    background-color: gray;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+}
+
+nav ul li:hover{
+    opacity: 0.6;
+    cursor: none;
+}
+
+.B{
+    display: flex;
+    margin: 150px;
+    height: 300px;
+}
+
+.B-one{
+    margin-right: 200px;
+}
+
+button{
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-right: 20px;
+    color: white;
+}
+
+button:hover{
+    cursor: none;
+    opacity: 0.7;
+}
+
+.btn1{
+    background-color:  rgb(73, 73, 238);
+}
+
+.btn2{
+    background-color: coral;
+}
+
+.btn3{
+    background-color: cornflowerblue;
+}
+.C{
+    margin: 150px;
+}
